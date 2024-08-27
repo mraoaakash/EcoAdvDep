@@ -1,0 +1,14 @@
+path: /Users/mraoaakash/Documents/research/research-arpi/Social-interraction/data/model_data
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['zebrafish']
+
+roboflow:
+  workspace: zebrafish-ew1d1
+  project: zebrafish_annotations
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/zebrafish-ew1d1/zebrafish_annotations/dataset/2
