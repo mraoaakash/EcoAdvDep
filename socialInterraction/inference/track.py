@@ -98,4 +98,4 @@ if __name__ == "__main__":
     savepath = "" # ADD THE PATH TO SAVE HERE
     outpath = "" # ADD THE PATH TO SAVE HERE
     runner(PRE_POST, video_path, modelpath, savepath, outpath)
-    # runner('pre', 'data/pre_intervention/
+    # runner('pre', 'data/pre_intervention/``
