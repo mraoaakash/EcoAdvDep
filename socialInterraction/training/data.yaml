@@ -1,4 +1,4 @@
-path: /Users/mraoaakash/Documents/research/research-arpi/Social-interraction/data/model_data
+path: #ADD PATH TO THE IMAGE FOLDER DIRECTORY
 train: train/images
 val: valid/images
 test: test/images
