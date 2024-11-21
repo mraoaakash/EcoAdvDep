@@ -1,12 +1,13 @@
-# Investigating Context-Specific Advantages of Depression-like behaviour in Wild-type Zebrafish _(Danio rerio)_
+# Social isolation reduces metabolic rate and social preference in Wild-type Zebrafish (Danio rerio)
 
 ### Abstract
-The detrimental aspects of depression have been widely investigated, with an apparent  literature gap examining the possible advantages of depressive behaviours. We examined metabolic, social and movement correlates of depressive behaviour induced by a month of visual and olfactory social isolation in adult wild-type zebrafish.  Socially isolated fish showed a significant reduction in metabolic rate,  social preference and  average speed of movement, compared to pre-intervention baseline. The reduction in metabolic rate, social preference, and average speed of movement, could lead to contextually beneficial energy expenditure savings for the fish in environments where there is high predatory threat and high food abundance. This study opens a range of possibilities to explore various ecological frameworks in which depressive traits could be of adaptive significance.
+The adaptive and maladaptive effects of social isolation in various animal models, especially under pathogen stress, have generated particular interest since the COVID-19 pandemic. We examined metabolic, social and movement outcomes induced by a month of visual and olfactory social isolation in adult wild-type zebrafish. Our primary interest was examining metabolic savings and changes in social preference, with movement reduction as a manipulation check for effective social isolation. We found that socially isolated fish demonstrated a significant decrease in metabolic rate, social preference and average speed of movement compared to the pre-intervention baseline. The reduction in metabolic rate could lead to contextually beneficial energy expenditure savings for the fish; however, the more mixed effects of reduced social preference and average speed of movement might only be helpful in environments with a high predatory threat and high food and mate abundance. This study opens up various possibilities to explore the adaptive significance of social isolation in various ecological frameworks. 
+
 
   **Keywords**: depression, metabolic rate, conspecific social preference, average speed, movement
 
 ### Installation Instructions
-All encosed code has been run on a MacbookPro with MacOS Sonoma 14.5 (23F79). The hardware specification is as follows:
+All enclosed code has been run on a MacbookPro with MacOS Sonoma 14.5 (23F79). The hardware specification is as follows:
 - Processor: Apple M1 Max
 - Memory: 64 GB
 - Graphics: M1 max 32 core
